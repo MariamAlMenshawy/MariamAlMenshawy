@@ -11,10 +11,8 @@ Welcome to my GitHub profile!
 - Tools: GitHub, VS Code
   
 ## Connect With Me
-- Email: maryammanshawy@gmail.com
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mariam-al-menshawy-56673333a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-- GitHub: [Maryam-Almenshawy](https://github.com/MaryamAlMenshawy)
-
+maryammanshawy@gmail.com
+www.linkedin.com/in/mariam-al-menshawy
 
 <!--
 **MariamAlMenshawy/MariamAlMenshawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
