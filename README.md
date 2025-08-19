@@ -11,16 +11,9 @@ Welcome to my GitHub profile!
 - Tools: GitHub, VS Code
   
 ## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-al-menshawy-56673333a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:maryammanshawy@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MaryamAlMenshawy)
-
-
-
-
+- Email: maryammanshawy@gmail.com
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mariam-al-menshawy-56673333a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- GitHub: [Maryam-Almenshawy](https://github.com/MaryamAlMenshawy)
 
 
 <!--
