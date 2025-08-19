@@ -2,7 +2,7 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- I'm a Student at the Faculty of Computers & Information Sciences, Mansoura University.
+- I'm a student at the Faculty of Computers & Information Sciences, Mansoura University.
 - I'm currently learning the basics of programming and developing my problem-solving skills.
 - I enjoy improving my skills by working on projects and sharing them in my GitHub profile.
 
